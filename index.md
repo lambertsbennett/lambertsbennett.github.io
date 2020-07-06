@@ -1,1 +1,0 @@
-# Ben Lambert Ph.D.
