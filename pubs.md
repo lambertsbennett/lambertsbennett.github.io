@@ -3,7 +3,7 @@ layout: default
 ---
 [Resume](./resume.md) &emsp; [Projects](./projects.md) &emsp; [Publications](./pubs.md)
 
-* EE. Clerc, JB Raina, JM. Keegstra, Z Landry, S Pontrelli, U Alcolombri, **BS Lambert**, V Anelli, F Vincent, M Masdeu-Navarro, A Sichert, F De Schaetzen, R Simó, JH Hehemann, A Vardi, JR Seymour & R Stocker. Strong chemotaxis by marine bacteria towards polysaccharides is enhanced by the abundant organosulfur compound DMSP (2023; Accepted) Nature Communications. 
+* EE Clerc, JB Raina, JM Keegstra, Z Landry, S Pontrelli, U Alcolombri, **BS Lambert**, V Anelli, F Vincent, M Masdeu-Navarro, A Sichert, F De Schaetzen, R Simó, JH Hehemann, A Vardi, JR Seymour & R Stocker. Strong chemotaxis by marine bacteria towards polysaccharides is enhanced by the abundant organosulfur compound DMSP (2023; Accepted) Nature Communications. 
 * **BS Lambert**, RD Groussman, MJ Schatz, S Coesel, BP Durham, A Alverson, AE White & EV Armbrust. The dynamic trophic architecture of open-ocean protist communities revealed through machine learning (2022) PNAS. [Link](https://www.pnas.org/doi/10.1073/pnas.2100916119)
 * JB Raina, **BS Lambert**, C Rinke, DH Parks, N Siboni, VI Fernandez, LF Messer, R Stocker, P Hugenholtz, GW Tyson, & JR Seymour. Chemotaxis underpins microscale partitioning of phytoplankton-derived organic matter in the ocean. (2022) Nature. [Link](https://www.nature.com/articles/s41586-022-04614-3)
 * E Clerc, JB Raina, **BS Lambert**, JR Seymour, & R Stocker. Deployment of the In Situ Chemotaxis Assay (ISCA) to examine microbial behaviour in aquatic ecosystems. (2020) Journal of Visualized Experiments. [Link](https://www.jove.com/de/t/61062/in-situ-chemotaxis-assay-to-examine-microbial-behavior-aquatic)
