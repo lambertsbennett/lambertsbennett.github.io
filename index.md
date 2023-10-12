@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+[Resume](./resume.md) &emsp; [Projects](./projects.md) &emsp; [Publications](./pubs.md)
 # About
 ## Current Work
 I am currently working in the automotive industry as a data scientist/engineer with [Pierer Innovation](https://www.pierer-innovation.com/) in Austria. As part of the Data Science and Business Modeling team I carry projects across most machine learning domains as well as data engineering and automation tasks. 
