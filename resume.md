@@ -4,9 +4,9 @@ layout: default
 [Resume](./resume.md) &emsp; [Projects](./projects.md) &emsp; [Publications](./pubs.md)
 
 ## Experience
-* Data Scientist | Pierer Innovation, (06/2022 – Current)
-* Data Analyst | Fronius International, (04/2021 – 05/2022)
-* Postdoctoral Fellow | University of Washington, (02/2019 – 03/2021)
+* Data Scientist, Pierer Innovation, (06/2022 – Current)
+* Data Analyst, Fronius International, (04/2021 – 05/2022)
+* Postdoctoral Fellow, University of Washington, (02/2019 – 03/2021)
 
 ## Tech Stack
 ### Languages
