@@ -8,7 +8,7 @@ Although I can't speak about specifics, I am involved in some of the following a
 * Building retrieval-augmented generation systems for question answering.
 * ETL pipelines with Spark in the Databricks environment.
 * Computer vision for automotive applications.
-* Various data engineering projects.
+* Various data science and engineering projects.
 * Tools: Python, Spark, SQL, and many others!
 
 ## Prior Open Source Projects
