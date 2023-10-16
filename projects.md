@@ -25,7 +25,7 @@ Although I can't speak about specifics, I am involved in some of the following a
 * MrLBP is a technique that can be used as a precursor to binning microbial genomes. I found that the published version of this approach was quite slow, so I re-implemented it in Golang and took advantage of its great concurrency model. [(Link)](https://github.com/lambertsbennett/GoMrLBP)
 * Tools: Golang
 
-### Ph.D. Research
+## Ph.D. Research
 * During my Ph.D. work I generated mass amounts of microscopy data. I then used MATLAB to automatically process the images and count cells.
 * To analyze environmental data I used a combination of R ecology packages and custom MATLAB scripts.
 * I also had the opportunity to do some robotics work and created underwater instruments that carried out fluid-handling operations. All control was carried out with an Arduino.
